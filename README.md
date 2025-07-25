@@ -85,7 +85,7 @@ client.on('message', async msg => {
 });
 
 client.initialize();
-```js
+```
 
 
 ## 🛠️ What You Need
