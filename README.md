@@ -85,3 +85,29 @@ client.on('message', async msg => {
 });
 
 client.initialize();
+```js
+
+
+## 🛠️ What You Need
+
+- WhatsApp account and [`whatsapp-web.js`](https://github.com/pedroslopez/whatsapp-web.js)
+- [`n8n.io`](https://n8n.io/) running on a cloud server (or local)
+- Google Sheet (with Google API credentials)
+- OCR API key (OCR.Space, Google Vision, etc)
+- OpenAI API key (for smarter parsing)
+
+---
+
+## 🧠 Why Bother?
+
+Because time is money. And wasting it copying numbers by hand is so 2010.  
+This system saves you hours, avoids mistakes, and gives you peace of mind — receipts organized, always accessible, zero paperwork.
+
+> Life is too short to spend it typing CBU numbers.
+
+---
+
+Feel free to fork, adapt, or drop me a line if you want to take your automation further.
+
+**leonardoprimero a.k.a. Leonardo I**
+
